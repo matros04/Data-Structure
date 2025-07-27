@@ -19,4 +19,8 @@ Enhancing my Problem Solving skills
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/matros04/Data-Structure/tree/master/0226-invert-binary-tree) |
+## Array
+|  |
+| ------- |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/matros04/Data-Structure/tree/master/2316-count-hills-and-valleys-in-an-array) |
 <!---LeetCode Topics End-->
