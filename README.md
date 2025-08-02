@@ -24,6 +24,7 @@ Enhancing my Problem Solving skills
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/matros04/Data-Structure/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/matros04/Data-Structure/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2689-rearranging-fruits](https://github.com/matros04/Data-Structure/tree/master/2689-rearranging-fruits) |
 ## Backtracking
 |  |
 | ------- |
@@ -36,4 +37,16 @@ Enhancing my Problem Solving skills
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/matros04/Data-Structure/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Hash Table
+|  |
+| ------- |
+| [2689-rearranging-fruits](https://github.com/matros04/Data-Structure/tree/master/2689-rearranging-fruits) |
+## Greedy
+|  |
+| ------- |
+| [2689-rearranging-fruits](https://github.com/matros04/Data-Structure/tree/master/2689-rearranging-fruits) |
+## Sort
+|  |
+| ------- |
+| [2689-rearranging-fruits](https://github.com/matros04/Data-Structure/tree/master/2689-rearranging-fruits) |
 <!---LeetCode Topics End-->
