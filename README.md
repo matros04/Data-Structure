@@ -6,6 +6,7 @@ Enhancing my Problem Solving skills
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/matros04/Data-Structure/tree/master/0096-unique-binary-search-trees) |
 | [0226-invert-binary-tree](https://github.com/matros04/Data-Structure/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
@@ -18,6 +19,7 @@ Enhancing my Problem Solving skills
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/matros04/Data-Structure/tree/master/0096-unique-binary-search-trees) |
 | [0226-invert-binary-tree](https://github.com/matros04/Data-Structure/tree/master/0226-invert-binary-tree) |
 ## Array
 |  |
@@ -49,4 +51,16 @@ Enhancing my Problem Solving skills
 |  |
 | ------- |
 | [2689-rearranging-fruits](https://github.com/matros04/Data-Structure/tree/master/2689-rearranging-fruits) |
+## Math
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/matros04/Data-Structure/tree/master/0096-unique-binary-search-trees) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/matros04/Data-Structure/tree/master/0096-unique-binary-search-trees) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/matros04/Data-Structure/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
