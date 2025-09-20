@@ -42,6 +42,7 @@ Enhancing my Problem Solving skills
 ## Hash Table
 |  |
 | ------- |
+| [0460-lfu-cache](https://github.com/matros04/Data-Structure/tree/master/0460-lfu-cache) |
 | [2689-rearranging-fruits](https://github.com/matros04/Data-Structure/tree/master/2689-rearranging-fruits) |
 ## Greedy
 |  |
@@ -63,4 +64,16 @@ Enhancing my Problem Solving skills
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/matros04/Data-Structure/tree/master/0096-unique-binary-search-trees) |
+## Linked List
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/matros04/Data-Structure/tree/master/0460-lfu-cache) |
+## Design
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/matros04/Data-Structure/tree/master/0460-lfu-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/matros04/Data-Structure/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
