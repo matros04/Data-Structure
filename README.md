@@ -76,4 +76,12 @@ Enhancing my Problem Solving skills
 |  |
 | ------- |
 | [0460-lfu-cache](https://github.com/matros04/Data-Structure/tree/master/0460-lfu-cache) |
+## String
+|  |
+| ------- |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/matros04/Data-Structure/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+## Stack
+|  |
+| ------- |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/matros04/Data-Structure/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
