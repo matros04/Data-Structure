@@ -27,6 +27,7 @@ Enhancing my Problem Solving skills
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/matros04/Data-Structure/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/matros04/Data-Structure/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2689-rearranging-fruits](https://github.com/matros04/Data-Structure/tree/master/2689-rearranging-fruits) |
+| [2751-robot-collisions](https://github.com/matros04/Data-Structure/tree/master/2751-robot-collisions) |
 ## Backtracking
 |  |
 | ------- |
@@ -84,4 +85,13 @@ Enhancing my Problem Solving skills
 |  |
 | ------- |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/matros04/Data-Structure/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [2751-robot-collisions](https://github.com/matros04/Data-Structure/tree/master/2751-robot-collisions) |
+## Sorting
+|  |
+| ------- |
+| [2751-robot-collisions](https://github.com/matros04/Data-Structure/tree/master/2751-robot-collisions) |
+## Simulation
+|  |
+| ------- |
+| [2751-robot-collisions](https://github.com/matros04/Data-Structure/tree/master/2751-robot-collisions) |
 <!---LeetCode Topics End-->
